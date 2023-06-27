@@ -2,7 +2,7 @@
 
 
 Desenvolvimento de uma página pessoal como exercício proposto pela Gama Academy com base na aula de HTML e CSS.
-Link para acessar o projeto: https://jenniferosf.github.io/Personal-Page
+Link para acessar o projeto: [https://jenniferosf.github.io/Personal-Page](https://github.com/JenniferOSF/personal-page)]
 
 
 # 📁 Objetivos de estudo
